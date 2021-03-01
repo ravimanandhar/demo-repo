@@ -1,1 +1,1 @@
-# Some of my projects for demo purposes.
+Some of my projects for demo purposes.
